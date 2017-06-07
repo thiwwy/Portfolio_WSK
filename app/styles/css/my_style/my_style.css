@@ -1,0 +1,58 @@
+/* line 1, ../../my_style/style_part/side_panel.scss */
+.portfolio_drawer {
+  width: 270px;
+  transform: translateX(-270px);
+}
+
+/* line 6, ../../my_style/style_part/side_panel.scss */
+.portfolio_drawer a {
+  padding: 16px 20px !important;
+}
+
+/* line 10, ../../my_style/style_part/side_panel.scss */
+.portfolio_drawer span {
+  padding: 16px 20px !important;
+}
+
+/* line 14, ../../my_style/style_part/side_panel.scss */
+.portfolio_drawer img {
+  width: 170px !important;
+  margin: 10px auto !important;
+}
+
+/* line 1, ../../my_style/style_part/font_icons.scss */
+.portfolio_drawer .icon {
+  font-size: 18px;
+}
+
+/* line 1, ../../my_style/style_part/sections.scss */
+section {
+  color: #767777;
+  font-family: "Raleway","Roboto","Helvetica","Arial",sans-serif;
+  padding: 80px 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 9, ../../my_style/style_part/sections.scss */
+.section-title {
+  color: #767777;
+  font-size: 34px;
+  font-weight: 400;
+  line-height: 40px;
+}
+
+/* line 16, ../../my_style/style_part/sections.scss */
+.card-container {
+  max-width: 1044px;
+}
+
+/* line 20, ../../my_style/style_part/sections.scss */
+.portfolio-card {
+  width: calc(25% - 16px);
+}
+
+/* line 24, ../../my_style/style_part/sections.scss */
+.portfolio-card img {
+  width: 100%;
+}
